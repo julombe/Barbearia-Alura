@@ -19,3 +19,6 @@ Foram utilizadas as seguintes ferramentas:
 Visual Studio Code - para escrita do código
 - HTML - marcação de texto
 - CSS - estilização da página
+---
+
+Made with love by Jose Ulombe 💜🚀
