@@ -12,7 +12,7 @@ Barbearia Alura é um projecto desenvolvida no curso sobre HTML5 e CSS3 da [Alur
 
 ---
 
-# Ferramentas Utilizadas
+# 📂Ferramentas Utilizadas
 
 Foram utilizadas as seguintes ferramentas:
 
