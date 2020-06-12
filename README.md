@@ -23,7 +23,7 @@ Foram utilizadas as seguintes ferramentas:
 
 # Como baixar o projecto
 
-```
+```bash
 # Clonar o repositório
 $ https://github.com/julombe/Barbearia-Alura
 ````
