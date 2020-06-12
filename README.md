@@ -21,4 +21,12 @@ Foram utilizadas as seguintes ferramentas:
 - CSS - estilização da página
 ---
 
-Made with love 💜 by José Ulombe 🚀 [keep in touch](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
+# Como baixar o projecto
+
+```
+# Clonar o repositório
+$ https://github.com/julombe/Barbearia-Alura
+````
+---
+
+Made with love  by José Ulombe 🚀 [keep in touch](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
