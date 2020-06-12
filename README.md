@@ -21,4 +21,4 @@ Foram utilizadas as seguintes ferramentas:
 - CSS - estilização da página
 ---
 
-Made with love by Jose Ulombe 💜🚀
+Made with love by José Ulombe 🚀🚀
