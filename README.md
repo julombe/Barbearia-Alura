@@ -33,4 +33,4 @@ $ https://github.com/julombe/Barbearia-Alura
 
 Made with love  💜 by José Ulombe 
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
-- [Twitter](https://twitter.com/josemwangole)
+- [Twitter](https://twitter.com/jose_ulombe)
