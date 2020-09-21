@@ -1,9 +1,10 @@
 {
-  "name": "Barbearia-Alura",
+  "name": "barbearia-alura",
   "version": "1.0.0",
   "description": "<h1 align=\"center\">     <img src=\"https://ik.imagekit.io/jlzh3neixu/barbearia_tRu7SCLIQ.png\"> </h1>",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
