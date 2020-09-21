@@ -4,6 +4,9 @@ const nunjucks = require('nunjucks')
 
 const server = express()
 
+//adding CSS
+server.use(express.static('public'))
+
 
 //configure template engine
 server.set("view engine", "html")
