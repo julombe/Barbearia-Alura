@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/julombe/Barbearia-Alura/issues"
   },
-  "homepage": "https://github.com/julombe/Barbearia-Alura#readme"
+  "homepage": "https://github.com/julombe/Barbearia-Alura#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
