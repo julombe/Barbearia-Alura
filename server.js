@@ -23,6 +23,10 @@ server.get("/contacto", function(req, res) {
     return res.render("contacto")
 })
 
+server.get("/produtos", function(req, res) {
+    return res.render("produtos")
+})
+
 
 
 //start server
