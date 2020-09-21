@@ -11,6 +11,11 @@ nunjucks.configure("views", {
     express: server
 })
 
+//adding route
+server.get("/", function(req, res) {
+    return res.render("index")
+})
+
 
 
 //start server
