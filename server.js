@@ -19,6 +19,10 @@ server.get("/", function(req, res) {
     return res.render("index")
 })
 
+server.get("/contacto", function(req, res) {
+    return res.render("contacto")
+})
+
 
 
 //start server
