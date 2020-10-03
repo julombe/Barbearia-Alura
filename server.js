@@ -9,7 +9,7 @@ server.use(express.static('public'))
 
 
 //configure template engine
-server.set("view engine", "html")
+server.set("view engine", "njk")
 nunjucks.configure("views", {
     express: server
 })
