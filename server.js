@@ -11,7 +11,9 @@ server.use(express.static('public'))
 //configure template engine
 server.set("view engine", "njk")
 nunjucks.configure("views", {
-    express: server
+    express: server,
+    autoescape: false,
+    noCache: true
 })
 
 //adding route
