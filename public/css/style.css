@@ -137,7 +137,8 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	/*background: darkorange;*/
+	background: darkgray;
 	/*transform: rotate(70deg) scale(1.2);*/
 
 }
