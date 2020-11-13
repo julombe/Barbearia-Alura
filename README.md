@@ -21,7 +21,7 @@ Foram utilizadas as seguintes ferramentas:
 - CSS - estilização da página
 ---
 
-# Como baixar o projecto
+## Como baixar o projecto
 
 ```bash
 # Clonar o repositório
