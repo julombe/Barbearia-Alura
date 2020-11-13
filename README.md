@@ -29,7 +29,7 @@ $ https://github.com/julombe/Barbearia-Alura
 ````
 ---
 
-# 🏷Author
+## 🏷Author
 
 Made with love  💜 by José Ulombe 
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ulombe-31744480/)
