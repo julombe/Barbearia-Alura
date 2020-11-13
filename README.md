@@ -20,9 +20,11 @@ Barbearia Alura é um projecto desenvolvido no curso sobre HTML5 e CSS3 da [Alur
 
 Foram utilizadas as seguintes ferramentas:
 
-- Visual Studio Code - para escrita do código
-- HTML - marcação de texto
-- CSS - estilização da página
+- HTML5
+- CSS3 
+- JavaScript
+- Node.js
+- Nunjucks
 ---
 
 ## Como baixar o projecto
