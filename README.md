@@ -1,5 +1,5 @@
 
-<h1>
+<h1 align="center">
     <p>Barbearia Alura</p>
 </h1>
 
