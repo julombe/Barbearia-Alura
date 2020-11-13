@@ -1,4 +1,8 @@
 
+<h1>
+    <p>Barbearia Alura</p>
+</h1>
+
 
 <h1 align="center">
     <img src="https://ik.imagekit.io/jlzh3neixu/barbearia_tRu7SCLIQ.png">
