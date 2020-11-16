@@ -7,6 +7,7 @@ const server = express()
 
 //adding CSS
 server.use(express.static('public'))
+server.use(routes)
 
 
 //configure template engine
